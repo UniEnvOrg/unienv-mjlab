@@ -10,10 +10,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/UniEnvOrg/mjlab_adaptor"
-Documentation = "https://github.com/UniEnvOrg/mjlab_adaptor"
-Repository = "https://github.com/UniEnvOrg/mjlab_adaptor"
-Issues = "https://github.com/UniEnvOrg/mjlab_adaptor/issues"
+Homepage = "https://github.com/UniEnvOrg/unienv-mjlab"
+Documentation = "https://github.com/UniEnvOrg/unienv-mjlab"
+Repository = "https://github.com/UniEnvOrg/unienv-mjlab"
+Issues = "https://github.com/UniEnvOrg/unienv-mjlab/issues"
 
 [tool.setuptools.packages.find]
 include = ["*"]
